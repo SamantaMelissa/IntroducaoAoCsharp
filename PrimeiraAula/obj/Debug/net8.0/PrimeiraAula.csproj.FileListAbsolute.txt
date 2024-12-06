@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.exe
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.deps.json
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.runtimeconfig.json
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.dll
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\bin\Debug\net8.0\PrimeiraAula.pdb
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.AssemblyInfo.cs
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.dll
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\refint\PrimeiraAula.dll
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.pdb
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\PrimeiraAula.genruntimeconfig.cache
+C:\Users\admin\Desktop\Introdução ao c#\PrimeiraAula\obj\Debug\net8.0\ref\PrimeiraAula.dll
