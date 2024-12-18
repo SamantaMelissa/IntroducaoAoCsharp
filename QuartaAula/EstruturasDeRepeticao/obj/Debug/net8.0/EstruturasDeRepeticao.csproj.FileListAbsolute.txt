@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.exe
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.deps.json
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.runtimeconfig.json
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.dll
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\bin\Debug\net8.0\EstruturasDeRepeticao.pdb
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.AssemblyInfo.cs
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.sourcelink.json
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.dll
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\refint\EstruturasDeRepeticao.dll
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.pdb
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\EstruturasDeRepeticao.genruntimeconfig.cache
+C:\Users\admin\Desktop\2024\Introdução ao c#\QuartaAula\EstruturasDeRepeticao\obj\Debug\net8.0\ref\EstruturasDeRepeticao.dll
